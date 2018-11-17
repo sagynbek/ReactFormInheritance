@@ -1,2 +1,0 @@
-# ReactFormInheritance
-Created with CodeSandbox
