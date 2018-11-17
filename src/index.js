@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import FormComponent from "./components/FormComponent";
+import { GridComponent } from "./components/GridComponent";
 
 import "./styles.css";
 
@@ -9,7 +10,7 @@ function App() {
     <div className="App">
       <h1>Hello CodeSandbox</h1>
       <FormComponent />
-      <h2>Start editing to see some magic happen!</h2>
+      <GridComponent />
     </div>
   );
 }
